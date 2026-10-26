@@ -21,7 +21,7 @@ As Nintendo's new security model on the Switch 2 requires a one-time payload del
 
 ---
 
-![Switch 2 Bootstrapper Interface](https://i.imgur.com/твоя-картинка.png)
+![Switch 2 Bootstrapper Interface](https://i.postimg.cc/yYfNw0xZ/dark-themed-desktop-applicatio-2026-10-26T11-50-32.webp)
 *The all-new Switch 2 Bootstrapper interface with USB-C connection status and payload log.*
 
 ---
