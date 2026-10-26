@@ -21,6 +21,11 @@ As Nintendo's new security model on the Switch 2 requires a one-time payload del
 
 ---
 
+![Switch 2 Bootstrapper Interface](https://i.postimg.cc/yYfNw0xZ/dark-themed-desktop-applicatio-2026-10-26T11-50-32.webp)
+*The all-new Switch 2 Bootstrapper interface with USB-C connection status and payload log.*
+
+---
+
 ## ✨ Features
 - **One-Click Activation:** Connect your Switch 2 via USB-C and click "Activate".
 - **Automatic Payload Delivery:** Bypasses signature checks securely.
