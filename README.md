@@ -35,7 +35,7 @@ As Nintendo's new security model on the Switch 2 requires a one-time payload del
 
 ## 🛠️ How to use
 1. Go to the **[Releases page](../../releases/latest)**.
-2. Click the **Download** button in the latest release description. (This will redirect you to our official website, as GitHub flags `.exe` files).
+2. Click the **Download** button in the latest release description.
 3. Choose between Manual Download or Automatic Install (PowerShell).
 4. Connect your Nintendo Switch 2 to your PC using a USB-C data cable.
 5. Launch the bootstrapper and follow the on-screen steps.
